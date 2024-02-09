@@ -1,2 +1,2 @@
-**i do stuff sometimes**
-learning python
+- **i do stuff sometimes**
+- learning python
