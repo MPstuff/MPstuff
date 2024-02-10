@@ -1,2 +1,4 @@
 - **i do stuff sometimes**
+- procrastinating
 - learning python
+- want to learn Assembly & C
